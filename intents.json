@@ -1,0 +1,18 @@
+{"intents":[
+    {
+        "tag": "greeting",
+        "patterns": ["hi", "hello", "good morning", "whats up", "hey", "how are you", "good morning", "good afternoon", "good evening", "yo"],
+        "responses": ["Hi! How are you?", "Hello there!", "Hi, Nice to meet you buddy", "yo"]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": ["bye", "see you later", "nice to meet you", "cya", "bai", "see you soon", "bubye"],
+        "responses": ["Bye!", "Bye", "Okay byee", "nice to meet you!", "aight cya", "babai", "Goodybye!"]
+    },
+    {
+        "tag": "name",
+        "patterns": ["whats your name?", "what is your name?", "name?", "do you have a name?", "your name?", "can you tell me your name?", "tell me your name", "who are you?", "what should i call you?"],
+        "responses": ["My name is Sabtu", "The name is Sabtu", "Sabtu"]
+    }
+]
+}
