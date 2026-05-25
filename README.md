@@ -2,7 +2,7 @@
 
 README file is partly AI generated
 
-A Python-based conversational AI chatbot built with TensorFlow/Keras that responds to user inputs using natural language processing (NLP) and a neural network trained on intent patterns. This is a tutorial from [text](https://youtu.be/1lwddP0KUEg?si=tsOpUXgr5cZ6fdCQ)
+A Python-based conversational AI chatbot built with TensorFlow/Keras that responds to user inputs using natural language processing (NLP) and a neural network trained on intent patterns. This is a tutorial from [https://youtu.be/1lwddP0KUEg?si=tsOpUXgr5cZ6fdCQ](https://youtu.be/1lwddP0KUEg?si=tsOpUXgr5cZ6fdCQ)
 
 ## Features
 
@@ -15,12 +15,19 @@ A Python-based conversational AI chatbot built with TensorFlow/Keras that respon
 ## 📋 Project Structure
 
 ├── chatbot.py # Main chatbot script (run this to chat)
+
 ├── trainingdata.py # Training script to build/update the model
+
 ├── intents.json # Intent patterns and responses (customize here)
+
 ├── chatbot_model.keras # Pre-trained neural network model
+
 ├── words.pkl # Serialized vocabulary from training data
+
 ├── classes.pkl # Serialized intent classes from training data
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 ## 🚀 Quick Start
@@ -28,10 +35,9 @@ A Python-based conversational AI chatbot built with TensorFlow/Keras that respon
 ### Prerequisites
 - Python 3.7+
 
-### Installation
+### Installation 
 
 1. Clone the repository:
-```bash
 git clone <repository-url>
 cd Simple-AI-Chatbot
 
